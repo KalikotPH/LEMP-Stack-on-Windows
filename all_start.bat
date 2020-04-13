@@ -20,6 +20,4 @@ pause
 
 :finish
 
-PING 127.0.0.1 - 1>NULL
-PING 127.0.0.1 >NULL
 PAUSE
