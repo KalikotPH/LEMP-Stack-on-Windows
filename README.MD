@@ -47,7 +47,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Caezar V. De Castro II** - *Initial work* - [GitLab](https://github.com/BytesCrafter)
+* **Bytes Crafter** - *Initial work* - [GitHub](https://github.com/BytesCrafter)
 
 See also the list of [contributors](https://github.com/BytesCrafter) who participated in this project.
 
