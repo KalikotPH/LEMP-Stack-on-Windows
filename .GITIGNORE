@@ -15,5 +15,5 @@
 logs/*.log
 temp/*.log
 tmp/*.log
-tmp/*.php
+tmp/sess_*
 mysql/tmp/*.tmp
