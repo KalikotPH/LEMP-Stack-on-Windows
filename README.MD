@@ -39,13 +39,13 @@ Please read [CONTRIBUTING](CONTRIBUTING) for details on our code of conduct, and
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BytesCrafter). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BytesCrafter/LEMP-Stack-on-Windows/releases). 
 
 ## Authors
 
 * **Bytes Crafter** - *Initial work* - [GitHub](https://github.com/BytesCrafter)
 
-See also the list of [contributors](https://github.com/BytesCrafter/LEMP-Stack-on-Windows) who participated in this project.
+See also the list of [contributors](https://github.com/BytesCrafter/LEMP-Stack-on-Windows/graphs/contributors) who participated in this project.
 
 ## License
 
