@@ -12,6 +12,6 @@
 #   !wp-content/themes/sample-theme/
 #
 
-logs/*
-tmp/*
-NULL
+logs/*.log
+temp/*.log
+tmp/*.log
