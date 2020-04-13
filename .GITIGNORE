@@ -15,4 +15,5 @@
 logs/*.log
 temp/*.log
 tmp/*.log
+tmp/*.php
 mysql/tmp/*.tmp
