@@ -32,10 +32,10 @@ This is preferably to be deployed on windows machine.
 
 ## Built With
 
-* [Nginx](https://www.nginx.com/) - Improve the performance, reliability, and security of your applications.
-* [MySQL](https://www.mysql.com/) - MySQL is an open-source relational database management system.
-* [PHP](https://www.php.net/) - Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
-* [phpMyAdmin](https://www.phpmyadmin.net/) - phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
+* [Nginx 1.16.1](https://www.nginx.com/) - Improve the performance, reliability, and security of your applications.
+* [MySQL 10.1.30 MDB](https://www.mysql.com/) - MySQL is an open-source relational database management system.
+* [PHP 7.3.10](https://www.php.net/) - Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
+* [phpMyAdmin 5.0.2](https://www.phpmyadmin.net/) - phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 
 ## Contributing
 
