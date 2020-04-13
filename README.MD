@@ -5,6 +5,7 @@ You can easily run this after you download this on your windows machine, tested 
 ## Getting Started
 
 Before you click the .bat file, please do the INSTALLING PART from this READ.MD. Servers that will run is Nginx, PHP, and MySQL.
+Please do RUN the .bat file with Administrator priviledge to prevent permission error.
 
 - all_start.bat - Will START all server that is enumerated previously.
 - all_stop.bat - Will STOP all server that is enumerated previously.
@@ -22,7 +23,7 @@ PASS: root
 First you need to manually update the root directory to where you extracted this LEMP Stack. 
 What you need to do is open the "mysql/bin/my.ini" and "php/config.inc.php" with your favorite code editor or I prefer VS Code.
 
-If your having trouble running the mysql server, kindly do this steps. 
+OPTIONAL! If your having trouble running the mysql server, kindly do this steps. 
 First, you need to navigate into "mysql/data/" then delete "ibdata1" and ib_logfile#.
 
 ## Deployment
