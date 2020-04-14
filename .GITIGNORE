@@ -22,3 +22,4 @@ mysql/data/mysql_error.log
 mysql/data/mysql.pid
 mysql/data/ibdata1
 mysql/data/ib_logfile*
+includes/phpMyAdmin/tmp/twig/*
